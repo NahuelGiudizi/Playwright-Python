@@ -1,0 +1,11 @@
+results/
+.pytest_cache/
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz

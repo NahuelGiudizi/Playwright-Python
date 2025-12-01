@@ -1,0 +1,1 @@
+Python implementation of comprehensive E2E testing framework for AutomationExercise.com using Playwright and Pytest. Includes full API test coverage, Page Object Model design pattern, parallel execution support, and automated HTML/JUnit reporting.
